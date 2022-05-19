@@ -1,0 +1,27 @@
+.card-head{
+    background: #000;
+    color: antiquewhite;
+    padding: 8px;
+    margin: 0;
+}
+
+.card-img-top{
+    margin: 20px 10px;
+    overflow: hidden;
+}
+
+.card-img, .card-img-bottom, .card-img-top{
+    width: 91%;
+    height: 150px;
+}
+
+.container{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.card{
+    margin-right: 20px;
+    min-width: 200px;
+    margin-left: 20px;
+}
